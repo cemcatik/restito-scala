@@ -2,7 +2,7 @@ organization := "com.xebialabs.restito"
 name := "restito-scala"
 
 enablePlugins(GitVersioning)
-git.baseVersion := "1.0"
+git.baseVersion := "0.5"
 
 scalaVersion := "2.11.6"
 scalacOptions in Test := Seq(
