@@ -15,5 +15,3 @@ libraryDependencies ++= Seq(
   "org.specs2" %% "specs2-core"       % "3.6" % "test",
   "org.specs2" %% "specs2-scalacheck" % "3.6" % "test"
 )
-
-net.virtualvoid.sbt.graph.Plugin.graphSettings
